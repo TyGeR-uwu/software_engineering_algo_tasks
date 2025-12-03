@@ -1,4 +1,4 @@
-from tasks.data_stuctures.tasks_list.solution import solution
+from tasks.data_stuctures.bracket_sequence.solution import solution
 
 def test():
     assert is_correct_bracket_seq("{[()]}") is True
