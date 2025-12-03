@@ -1,3 +1,5 @@
+from tasks.data_stuctures.stack_max.solution import solution
+
 def test():
     stack = StackMax()
     assert stack.get_max() == "None"
