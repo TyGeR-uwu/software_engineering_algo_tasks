@@ -1,4 +1,4 @@
-from tasks.data_stuctures.recursion.binary_search.solution import solution
+from tasks.recursion.binary_search.solution import solution
 
 def test_binary_search():
     # 1. Базовый случай — элемент есть в середине
